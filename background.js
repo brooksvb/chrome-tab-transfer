@@ -8,6 +8,7 @@ var post = "";
 
 // Called when the user clicks on the browser action.
 chrome.browserAction.onClicked.addListener(function() {
+  urls = [];
   // Send a message to the active tab
   chrome.tabs.query({'lastFocusedWindow': true}, function(tabs) {
     tabs.forEach(function(tab) {
