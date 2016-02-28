@@ -42,7 +42,7 @@ function sendData(datastring) {
 	  openTab(xhr.response); // Open tab with response (URL)
 	};
 	
-	Set header containing metadata
+	// Set header containing metadata
 	xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
 	
 	xhr.onerror = function(e) { // When recieving error response
