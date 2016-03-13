@@ -20,3 +20,5 @@ TO USE:
 - Click extension icon
 - New page opens with the pastebin including your URLs
 - Open the page in any other browser or device
+
+Credit to collaborators Ankit Luthra and Fatema Alsaleh.
