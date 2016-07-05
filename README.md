@@ -1,4 +1,4 @@
-# Chrome_Tab_Transfer
+# chrome-tab-transfer
 
 Created at SpartaHack 2016.
 
